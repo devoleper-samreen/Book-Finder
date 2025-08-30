@@ -26,11 +26,10 @@ A modern **React-based Book Finder Application** with **search, autocomplete sug
 
 ---
 
----
 
 ## ⚡ Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/book-finder.git
+   git clone https://github.com/devoleper-samreen/Book-Finder.git
    ```
