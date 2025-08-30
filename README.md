@@ -1,12 +1,36 @@
-# React + Vite
+# 📚 Book Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React-based Book Finder Application** with **search, autocomplete suggestions, filtering, sorting, favorites**, and **dark mode** support.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🔍 **Search Books** by title or author.
+- 🧠 **Autocomplete Suggestions** while typing.
+- 🎨 **Dark/Light Mode** toggle.
+- 🔖 **Favorites Section** to save your favorite books.
+- 🔽 **Filter & Sort Options**:
+  - Filter by **Category** and **Rating**.
+  - Sort by **Title**, **Author**, or **Publication Date**.
+- ✅ **Responsive UI** built with **Tailwind CSS** and **Lucide Icons**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: React, Tailwind CSS, Lucide Icons
+- **State Management**: React Hooks
+- **Styling**: Tailwind CSS
+- **Storage**: localStorage
+
+---
+
+---
+
+## ⚡ Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/book-finder.git
+   ```
