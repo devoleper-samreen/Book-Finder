@@ -4,16 +4,7 @@ A modern **React-based Book Finder Application** with **search, autocomplete sug
 
 ---
 
-## ✨ Features
 
-- 🔍 **Search Books** by title or author.
-- 🧠 **Autocomplete Suggestions** while typing.
-- 🎨 **Dark/Light Mode** toggle.
-- 🔖 **Favorites Section** to save your favorite books.
-- 🔽 **Filter & Sort Options**:
-  - Filter by **Category** and **Rating**.
-  - Sort by **Title**, **Author**, or **Publication Date**.
-- ✅ **Responsive UI** built with **Tailwind CSS** and **Lucide Icons**.
 
 ---
 
